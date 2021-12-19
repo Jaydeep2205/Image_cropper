@@ -7,6 +7,7 @@
 /.pnp
 .pnp.js
 debug.log
+/jay/node_modules
 
 # testing
 /coverage
